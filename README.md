@@ -1,2 +1,2 @@
 # cipher
-reading through classical ciphers
+reading classical ciphers
